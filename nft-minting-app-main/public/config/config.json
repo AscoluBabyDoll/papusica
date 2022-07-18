@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0E694A5D2faA27c6A299e3B6a0e251Bddd9bb5A0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x0e694a5d2faa27c6a299e3b6a0e251bddd9bb5a0",
+  "NETWORK": {
+    "NAME": "Eth",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Papusica",
+  "SYMBOL": "Papusica",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/papusica-v2",
+  "SHOW_BACKGROUND": true
+}
